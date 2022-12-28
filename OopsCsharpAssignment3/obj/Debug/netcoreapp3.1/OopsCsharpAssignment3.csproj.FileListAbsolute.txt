@@ -1,0 +1,14 @@
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.AssemblyInfoInputs.cache
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.AssemblyInfo.cs
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.exe
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.deps.json
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.runtimeconfig.json
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.runtimeconfig.dev.json
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.dll
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\bin\Debug\netcoreapp3.1\OopsCsharpAssignment3.pdb
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.dll
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.pdb
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.genruntimeconfig.cache
+C:\Users\BITTALUK\source\repos\OopsCsharpAssignment3\OopsCsharpAssignment3\obj\Debug\netcoreapp3.1\OopsCsharpAssignment3.csproj.AssemblyReference.cache
